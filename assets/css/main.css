@@ -8,14 +8,14 @@
 */
 
 .profile-image {
-    width: 400px; /* Adjust size as needed */
-    height: 400px; /* Ensure it's a perfect circle */
-    border-radius: 50%; /* Makes it circular */
-    object-fit: cover; /* Ensures the image fills the space without distortion */
+    width: 400px; 
+    height: 400px; 
+    border-radius: 50%;
+    object-fit: cover; 
     display: block;
-    margin: 20px auto; /* Centers the image */
-    border: 3px solid #fff; /* Optional: Add a border */
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Optional: Adds a shadow */
+    margin: 20px auto; 
+    border: 3px solid #fff; 
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); 
 }
 
 
